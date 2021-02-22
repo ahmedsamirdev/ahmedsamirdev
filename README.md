@@ -3,7 +3,7 @@
 <h3 align="center">React Front End Developer</h3>  
 <p align="center">I enjoy building things for the web. Enthusiastic about building exceptional websites,<br> applications, and everything in between.</p>
  <p align="center">
-<img src="https://ahmedsamir.dev/pc.gif" width="350" height="350" /></p>
+<img src="https://ahmedsamir.dev/pc_bg.gif" width="350" height="350" /></p>
 
 - 🌱 I’m currently learning **tons of things about tons of stuff.**  
   
