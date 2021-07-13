@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm ahmed samir</h1>  
+<h1 align="center">Hi 👋, I'm ahmed samir</h1>   
 <h3 align="center">React Front End Developer</h3>  
 <p align="center">I enjoy building things for the web. Enthusiastic about building exceptional websites, applications, and everything in between. I have a serious passion for UI, developing and creating apps to help people go further online.</p>
  <p align="center">
