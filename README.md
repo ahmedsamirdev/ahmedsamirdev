@@ -6,7 +6,7 @@
 <img src="https://ahmedsamir.dev/banner.png" width="500" /></p>
 
 - 🌱 I’m currently learning **tons of things about tons of stuff.**  
-  
+   
 - 📫 You can reach me via **linkedin or twitter.**  
   
 <h3 align="left">Connect with me:</h3>  
