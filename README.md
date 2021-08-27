@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **tons of things about tons of stuff.**   
     
 - 📫 You can reach me via **linkedin or twitter.**   
-  
+   
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
 <a href="https://twitter.com/ahmedsamir_dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ahmedsamir_dev" height="30" width="40" /></a>  
