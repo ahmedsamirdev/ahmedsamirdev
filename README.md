@@ -2,7 +2,7 @@
   
        
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedsamir-dev/)
- 
+  
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ahmedsamir551@gmail.com)
 [![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://ahmedsamir.dev)](https://ahmedsamir.dev)
 [![Github](https://img.shields.io/github/followers/ahmedsamirdev?label=Follow&style=social)](https://github.com/ahmedsamirdev)
